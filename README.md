@@ -1,2 +1,2 @@
-# COVID19-project-analysis
-this project working on covid19 research
+# project-analysis
+this project working on IBM Data science course
